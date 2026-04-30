@@ -1,18 +1,27 @@
-# find-book-aaroncxxx
+# 📚 Find a Book / 出版书籍查找
 
-出版书籍查找 Find a Book v1.1.0
+> 权威版本定位与 ISBN 查询
+> Find the Authoritative Edition with ISBN Lookup
 
-## 功能
-- 📚 内置尼采著作三层版本体系（德/英/中）含 ISBN
-- 📜 内置中国经典权威版本（道德经/菜根谭/六祖坛经/金刚经/心经）
-- 🔍 按书名/作者/主题/ISBN 查找
-- ✅ ISBN-10/13 校验工具
-- 📊 四维版本对比框架
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-1.1.0-orange)
 
-## 安装
+## ✨ Features / 功能
+
+- 📚 **尼采著作** — 三层版本体系（德/英/中）含 ISBN
+- 📜 **中国经典** — 权威版本收录
+- 🔍 **ISBN 查询** — 快速定位版本
+- 📖 **版本对比** — 不同译本对照
+
+## 🚀 Quick Start / 快速开始
+
 ```bash
-clawhub install find-book-aaroncxxx
+python find_book.py "书名"
 ```
 
-## 作者
-@aaroncxxx
+## 📝 Author / 作者
+
+> Built with MIMO 🦋
+
+⭐ Star this repo if you find it useful!
